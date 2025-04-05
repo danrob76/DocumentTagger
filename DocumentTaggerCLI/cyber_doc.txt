@@ -1,0 +1,2 @@
+This document focuses on cybersecurity and malware threats.
+We also touch on encryption methods and firewall configurations.
